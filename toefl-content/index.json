@@ -1,0 +1,77 @@
+{
+  "updated": "2026-10-29",
+  "tasks": [
+    {
+      "id": "rd-ctw-0001",
+      "path": "reading/rd-ctw-0001.json",
+      "version": 1,
+      "cefr": "B1"
+    },
+    {
+      "id": "rd-ctw-0002",
+      "path": "reading/rd-ctw-0002.json",
+      "version": 1,
+      "cefr": "B1"
+    },
+    {
+      "id": "rd-ctw-0003",
+      "path": "reading/rd-ctw-0003.json",
+      "version": 1,
+      "cefr": "B2"
+    },
+    {
+      "id": "wr-ad-0001",
+      "path": "writing/wr-ad-0001.json",
+      "version": 1,
+      "cefr": "B2"
+    },
+    {
+      "id": "wr-bas-0001",
+      "path": "writing/wr-bas-0001.json",
+      "version": 1,
+      "cefr": "B1"
+    },
+    {
+      "id": "wr-bas-0002",
+      "path": "writing/wr-bas-0002.json",
+      "version": 1,
+      "cefr": "B1"
+    },
+    {
+      "id": "wr-bas-0003",
+      "path": "writing/wr-bas-0003.json",
+      "version": 1,
+      "cefr": "B1"
+    },
+    {
+      "id": "wr-bas-0004",
+      "path": "writing/wr-bas-0004.json",
+      "version": 1,
+      "cefr": "B2"
+    },
+    {
+      "id": "wr-bas-0005",
+      "path": "writing/wr-bas-0005.json",
+      "version": 1,
+      "cefr": "B2"
+    },
+    {
+      "id": "wr-em-0001",
+      "path": "writing/wr-em-0001.json",
+      "version": 1,
+      "cefr": "B1"
+    },
+    {
+      "id": "sp-int-0001",
+      "path": "speaking/sp-int-0001.json",
+      "version": 1,
+      "cefr": "B1"
+    },
+    {
+      "id": "sp-lr-0001",
+      "path": "speaking/sp-lr-0001.json",
+      "version": 1,
+      "cefr": "B1"
+    }
+  ]
+}

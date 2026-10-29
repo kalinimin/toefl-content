@@ -1,0 +1,37 @@
+{
+  "id": "sp-int-0001",
+  "type": "interview",
+  "section": "speaking",
+  "cefr": "B1",
+  "topic": "learning",
+  "source": "original",
+  "status": "approved",
+  "version": 1,
+  "time_limit_sec": null,
+  "content": {
+    "scenario": "You have agreed to take part in a research study about how people learn. A researcher will ask you some questions.",
+    "interviewer_voice": "en-US-AvaNeural",
+    "questions": [
+      {
+        "kind": "personal",
+        "text": "Think about a skill you learned outside of school, for example a hobby or something practical. What was the skill, and how did you learn it?",
+        "audio": "audio/sp-int-0001-1.mp3"
+      },
+      {
+        "kind": "personal",
+        "text": "Do you prefer to learn new things alone or with other people? Why?",
+        "audio": "audio/sp-int-0001-2.mp3"
+      },
+      {
+        "kind": "opinion",
+        "text": "Some people believe that online courses will eventually replace traditional classrooms. Do you agree? Why or why not?",
+        "audio": "audio/sp-int-0001-3.mp3"
+      },
+      {
+        "kind": "opinion",
+        "text": "Should universities require all students to take at least one course outside their main subject? Why or why not?",
+        "audio": "audio/sp-int-0001-4.mp3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "wr-ad-0001",
+  "type": "academic_discussion",
+  "section": "writing",
+  "cefr": "B2",
+  "topic": "education",
+  "source": "original",
+  "status": "approved",
+  "version": 1,
+  "time_limit_sec": 600,
+  "content": {
+    "course": "education",
+    "professor": {
+      "name": "Dr. Lee",
+      "post": "Many universities now offer courses that are completely online. Some people say online learning is just as effective as studying in a classroom, while others believe that students learn better when they meet their teachers and classmates in person. What do you think? Can online courses replace traditional classes? Why or why not?"
+    },
+    "students": [
+      {
+        "name": "Maria",
+        "stance": "for",
+        "post": "I think online courses can replace traditional classes. Students can watch lectures at any time and study at their own speed. This is very helpful for people who work or live far from a university."
+      },
+      {
+        "name": "Tom",
+        "stance": "against",
+        "post": "I don't agree. In a classroom, you can ask questions immediately and discuss ideas with other students. Online, many students feel alone and lose motivation."
+      }
+    ],
+    "sample_answer": null
+  }
+}

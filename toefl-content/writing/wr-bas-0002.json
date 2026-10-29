@@ -1,0 +1,36 @@
+{
+  "id": "wr-bas-0002",
+  "type": "build_sentence",
+  "section": "writing",
+  "cefr": "B1",
+  "topic": "campus",
+  "source": "original",
+  "status": "approved",
+  "version": 1,
+  "time_limit_sec": 40,
+  "content": {
+    "context": "Why were you late this morning?",
+    "prefix": "The",
+    "suffix": "on the way.",
+    "chunks": [
+      "take",
+      "broke down",
+      "that",
+      "did",
+      "bus",
+      "usually",
+      "I"
+    ],
+    "answer": [
+      4,
+      2,
+      6,
+      5,
+      0,
+      1
+    ],
+    "alt_answers": [],
+    "grammar_point": "relative_clause",
+    "explanation": "the bus that I usually take — придаточное после существительного; did лишнее."
+  }
+}

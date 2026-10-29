@@ -1,0 +1,15 @@
+{
+  "id": "rd-ctw-0001",
+  "type": "complete_the_words",
+  "section": "reading",
+  "cefr": "B1",
+  "topic": "biology",
+  "source": "original",
+  "status": "approved",
+  "version": 1,
+  "time_limit_sec": 180,
+  "content": {
+    "paragraph": "Bees play an important role in agriculture around the world. Many of the crops that people eat depend on them for pollination. When bees visit flowers, they carry pollen from one plant to another. This process allows plants to produce fruit and seeds. However, bee populations have declined in recent decades, which worries farmers and scientists. Researchers believe that pesticides, disease, and habitat loss are the main causes of the problem.",
+    "gaps_override": null
+  }
+}

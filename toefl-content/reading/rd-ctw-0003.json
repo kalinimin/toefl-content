@@ -1,0 +1,15 @@
+{
+  "id": "rd-ctw-0003",
+  "type": "complete_the_words",
+  "section": "reading",
+  "cefr": "B2",
+  "topic": "psychology",
+  "source": "original",
+  "status": "approved",
+  "version": 1,
+  "time_limit_sec": 180,
+  "content": {
+    "paragraph": "Sleep has a strong influence on how well people learn new information. During deep sleep, the brain replays experiences from the day and moves important memories into long-term storage. Students who sleep less than six hours often find it harder to concentrate and remember what they studied. Some researchers even suggest that a short nap after studying can improve recall. For this reason, many experts recommend regular sleep schedules, especially before important exams.",
+    "gaps_override": null
+  }
+}

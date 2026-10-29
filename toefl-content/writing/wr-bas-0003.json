@@ -1,0 +1,34 @@
+{
+  "id": "wr-bas-0003",
+  "type": "build_sentence",
+  "section": "writing",
+  "cefr": "B1",
+  "topic": "campus",
+  "source": "original",
+  "status": "approved",
+  "version": 1,
+  "time_limit_sec": 40,
+  "content": {
+    "context": "Have you decided which course to take next semester?",
+    "prefix": "I'm still not sure",
+    "suffix": ".",
+    "chunks": [
+      "choose",
+      "one",
+      "do",
+      "should",
+      "which",
+      "I"
+    ],
+    "answer": [
+      4,
+      1,
+      5,
+      3,
+      0
+    ],
+    "alt_answers": [],
+    "grammar_point": "indirect_question",
+    "explanation": "В косвенном вопросе прямой порядок слов: which one I should choose, без do."
+  }
+}

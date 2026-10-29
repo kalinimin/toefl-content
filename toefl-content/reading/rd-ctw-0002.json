@@ -1,0 +1,15 @@
+{
+  "id": "rd-ctw-0002",
+  "type": "complete_the_words",
+  "section": "reading",
+  "cefr": "B1",
+  "topic": "history",
+  "source": "original",
+  "status": "approved",
+  "version": 1,
+  "time_limit_sec": 180,
+  "content": {
+    "paragraph": "The first public libraries appeared in many cities during the nineteenth century. Before that time, most books were expensive and only wealthy families could buy them. Public libraries changed this situation because anyone could borrow books for free. Workers used them to learn new skills after their long working day. Over time, libraries also became places where people met, attended lectures, and read newspapers. Today they continue to offer free access to information and technology.",
+    "gaps_override": null
+  }
+}

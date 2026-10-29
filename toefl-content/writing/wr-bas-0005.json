@@ -1,0 +1,32 @@
+{
+  "id": "wr-bas-0005",
+  "type": "build_sentence",
+  "section": "writing",
+  "cefr": "B2",
+  "topic": "campus",
+  "source": "original",
+  "status": "approved",
+  "version": 1,
+  "time_limit_sec": 40,
+  "content": {
+    "context": "Is the library open on Sundays?",
+    "prefix": "I'm not sure, but I think",
+    "suffix": "on weekends.",
+    "chunks": [
+      "it",
+      "closes",
+      "does",
+      "earlier",
+      "usually"
+    ],
+    "answer": [
+      0,
+      4,
+      1,
+      3
+    ],
+    "alt_answers": [],
+    "grammar_point": "word_order",
+    "explanation": "Наречие частоты usually стоит перед смысловым глаголом; does лишнее."
+  }
+}

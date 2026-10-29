@@ -1,0 +1,53 @@
+{
+  "id": "sp-lr-0001",
+  "type": "listen_repeat",
+  "section": "speaking",
+  "cefr": "B1",
+  "topic": "campus",
+  "source": "original",
+  "status": "approved",
+  "version": 1,
+  "time_limit_sec": null,
+  "content": {
+    "scenario": "You are a new assistant at the university library. Listen to your supervisor and repeat what she says. Repeat only once.",
+    "image": null,
+    "voice": "en-GB-SoniaNeural",
+    "sentences": [
+      {
+        "text": "Welcome to the library.",
+        "audio": "audio/sp-lr-0001-1.mp3",
+        "record_sec": 8
+      },
+      {
+        "text": "The quiet study rooms are on the second floor.",
+        "audio": "audio/sp-lr-0001-2.mp3",
+        "record_sec": 8
+      },
+      {
+        "text": "Students need their ID cards to borrow books.",
+        "audio": "audio/sp-lr-0001-3.mp3",
+        "record_sec": 9
+      },
+      {
+        "text": "Please remind visitors that food is not allowed near the computers.",
+        "audio": "audio/sp-lr-0001-4.mp3",
+        "record_sec": 10
+      },
+      {
+        "text": "Books that are returned late will be charged a small fee each day.",
+        "audio": "audio/sp-lr-0001-5.mp3",
+        "record_sec": 10
+      },
+      {
+        "text": "If someone needs help finding an article, show them how to use the online catalog.",
+        "audio": "audio/sp-lr-0001-6.mp3",
+        "record_sec": 11
+      },
+      {
+        "text": "During exam week, the library stays open until midnight, so we usually need extra staff in the evenings.",
+        "audio": "audio/sp-lr-0001-7.mp3",
+        "record_sec": 12
+      }
+    ]
+  }
+}

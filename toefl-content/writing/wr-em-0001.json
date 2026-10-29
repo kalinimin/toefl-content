@@ -1,0 +1,23 @@
+{
+  "id": "wr-em-0001",
+  "type": "write_email",
+  "section": "writing",
+  "cefr": "B1",
+  "topic": "campus",
+  "source": "original",
+  "status": "approved",
+  "version": 1,
+  "time_limit_sec": 420,
+  "content": {
+    "scenario": "You signed up to help at a weekend volunteer event organized by your university's environmental club. However, you have just found out that you have an important exam on the same day.",
+    "tasks": [
+      "Explain why you cannot attend the event.",
+      "Tell the coordinator what you like about the club.",
+      "Suggest another way you could help."
+    ],
+    "to": "coordinator@greencampus.edu",
+    "subject": "Unable to attend the weekend event",
+    "register": "semi_formal",
+    "sample_answer": "Dear Coordinator,\n\nI'm writing to let you know that unfortunately I won't be able to attend the volunteer event this weekend. I have just found out that I have an important exam on the same day, and I need to prepare for it.\n\nI really enjoy being part of the environmental club. I especially like the clean-up days, because they make our campus look much better and I meet interesting people there.\n\nEven though I can't come on Saturday, I would be happy to help in another way. For example, I could make posters for the event or help prepare the materials on Friday evening.\n\nThank you for understanding.\n\nBest regards,\nAlex"
+  }
+}

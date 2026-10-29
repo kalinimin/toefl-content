@@ -1,0 +1,36 @@
+{
+  "id": "wr-bas-0001",
+  "type": "build_sentence",
+  "section": "writing",
+  "cefr": "B1",
+  "topic": "campus",
+  "source": "original",
+  "status": "approved",
+  "version": 1,
+  "time_limit_sec": 40,
+  "content": {
+    "context": "What was the highlight of your trip?",
+    "prefix": "The",
+    "suffix": "fantastic.",
+    "chunks": [
+      "were",
+      "the",
+      "was",
+      "old city",
+      "showed us around",
+      "who",
+      "tour guides"
+    ],
+    "answer": [
+      6,
+      5,
+      4,
+      1,
+      3,
+      0
+    ],
+    "alt_answers": [],
+    "grammar_point": "relative_clause",
+    "explanation": "who относится к tour guides; подлежащее во множественном числе, поэтому were, а не was."
+  }
+}
